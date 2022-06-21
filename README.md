@@ -1,8 +1,7 @@
 ﻿
-# Dokumentace WeatherApp -- IZA
+# Dokumentace WeatherApp
 
 **Autor:** Marko Kubrachenko
-**Login:** xkubra00
 **Nasazení aplikace:** iOS 15.4
 
 ## Popis
@@ -19,10 +18,3 @@ https://drive.google.com/file/d/1tQwsGEXrnvQdhi6a_YbHpVtL5uYfVccY/view?usp=shari
 * `CoreData`
 * `CoreLocation`
 * `CoreLocationUI`
-
-## TODO v budoucnu
-
-*  Obraz  ikony  se  nezobrazuje  v  LauchScreen  (pouze  v  simulaci)  
-*  Přidání  předpovědi  počasí  pro  nadcházející  dny  
-*  Přidání  ještě  více  animací  pro  "oživení"  aplikace
-
